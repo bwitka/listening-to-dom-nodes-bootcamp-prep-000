@@ -26,3 +26,5 @@ function(e) {
 }
 );
 
+let divs = document.querySelectorAll('div');
+
